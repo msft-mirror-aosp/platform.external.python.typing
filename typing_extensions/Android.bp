@@ -19,6 +19,7 @@ python_library {
     name: "typing_extensions",
     host_supported: true,
     srcs: [
+       "__init__.py",
         "src/typing_extensions.py",
     ],
     version: {
