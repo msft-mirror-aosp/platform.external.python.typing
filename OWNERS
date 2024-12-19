@@ -6,3 +6,4 @@ murj@google.com
 # Mobly team - use for mobly bugs
 angli@google.com
 lancefluger@google.com
+include platform/system/core:/janitors/OWNERS #{LAST_RESORT_SUGGESTION}
