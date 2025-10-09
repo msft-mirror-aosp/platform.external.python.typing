@@ -21,7 +21,7 @@ license {
     name: "external_python_typing_license",
     visibility: [":__subpackages__"],
     license_kinds: [
-        "SPDX-license-identifier-MIT",
+        "SPDX-license-identifier-PSF-2.0",
     ],
     license_text: [
         "LICENSE",
